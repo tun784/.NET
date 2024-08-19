@@ -17,7 +17,7 @@ namespace B2_19_08_2024
             Console.WriteLine("Liet ke cac so nguyen to trong mang.");
             Console.WriteLine("Tim phan tu am dau tien trong mang.");
             Console.WriteLine("Tim max, min cua day.");
-            Console.WriteLine("Tinh tong cac phan tu trong mang.\n");
+            Console.WriteLine("Tinh tong cac phan tu trong mang.\n");            
             Console.WriteLine("Bai 2. Mang hai chieu");
             Console.WriteLine("Cho mot ma tran nguyen kich thuoc m*n. Viet phuong thuc thuc hien:");
             Console.WriteLine("Nhap cac gia tri cho mang 2 chieu, sau do xuat mang vua nhap.");
@@ -39,8 +39,6 @@ namespace B2_19_08_2024
                 case 1:
                     Mang1Chieu();
                     break;
-                case 2: break;
-                case 3: break;
                 default:
                     break;
             }

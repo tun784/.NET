@@ -13,4 +13,4 @@ for _ in range(100):
 tree = ET.ElementTree(root)
 
 # Ghi vào file XML
-tree.write("output.xml", encoding="utf-8", xml_declaration=True)
+tree.write("Mang1chieu.xml", encoding="utf-8", xml_declaration=True)

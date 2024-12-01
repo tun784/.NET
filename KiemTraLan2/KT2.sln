@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChiTietPhieuThu", "ChiTietPhieuThu\ChiTietPhieuThu.csproj", "{7EA73669-2292-4414-9620-4946D4FF8BE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChiTietPhieuThu02", "ChiTietPhieuThu02\ChiTietPhieuThu02.csproj", "{256ADDB8-E299-4E50-B9E3-365C51FFF286}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EA73669-2292-4414-9620-4946D4FF8BE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EA73669-2292-4414-9620-4946D4FF8BE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EA73669-2292-4414-9620-4946D4FF8BE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EA73669-2292-4414-9620-4946D4FF8BE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{256ADDB8-E299-4E50-B9E3-365C51FFF286}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{256ADDB8-E299-4E50-B9E3-365C51FFF286}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{256ADDB8-E299-4E50-B9E3-365C51FFF286}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{256ADDB8-E299-4E50-B9E3-365C51FFF286}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
